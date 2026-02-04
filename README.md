@@ -1,5 +1,5 @@
 ## Repository Folder Structure
-
+```
 CODTECH-SQL-INTERNSHIP/
 ├── Task-1/
 │   └── SQLQuery1.sql
@@ -12,6 +12,7 @@ CODTECH-SQL-INTERNSHIP/
 │   ├── integrity_check.sql
 │   └── report.txt
 └── Task-4-Backup-Recovery/
-    ├── backup.sql
-    ├── recovery.sql
-    └── report.txt
+├── backup.sql
+├── recovery.sql
+└── report.txt
+```
