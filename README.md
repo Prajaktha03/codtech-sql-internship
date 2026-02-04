@@ -1,6 +1,6 @@
 ## Repository Folder Structure
 ```
-CODTECH-SQL-INTERNSHIP/
+codtech-sql-internship/
 ├── Task-1/
 │   └── SQLQuery1.sql
 ├── Task-2/
