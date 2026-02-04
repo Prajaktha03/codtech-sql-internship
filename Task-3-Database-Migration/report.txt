@@ -1,0 +1,2 @@
+This task demonstrates database migration between MySQL and PostgreSQL.
+Data was migrated using INSERT INTO SELECT queries and validated using row count comparison and EXCEPT queries to ensure data integrity.
