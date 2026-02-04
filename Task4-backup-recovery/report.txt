@@ -1,0 +1,9 @@
+TASK 4 – DATABASE BACKUP AND RECOVERY REPORT
+
+In this task, we focused on the concept of database backup and recovery. 
+A backup copy of the main table was created to ensure data safety. 
+To simulate data loss, records were intentionally deleted from the main table. 
+The recovery process was then performed by restoring the data from the backup table. 
+This demonstrated that even if data is lost or corrupted, it can be safely recovered using proper backup strategies. 
+All steps were implemented using SQL scripts and the process ensures data integrity. 
+Due to environment limitations, the backup and recovery were demonstrated conceptually rather than using actual database servers.
